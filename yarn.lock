@@ -1390,6 +1390,11 @@ flat-cache@^1.2.1:
     graceful-fs "^4.1.2"
     write "^0.2.1"
 
+flip@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/flip/-/flip-1.0.0.tgz#8ad60c638675856972e4ae4d8d61578d0b26d73f"
+  integrity sha1-itYMY4Z1hWly5K5NjWFXjQsm1z8=
+
 flush-write-stream@^1.0.0:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/flush-write-stream/-/flush-write-stream-1.0.3.tgz#c5d586ef38af6097650b49bc41b55fabb19f35bd"
