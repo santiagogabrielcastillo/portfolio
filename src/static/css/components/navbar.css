@@ -19,13 +19,19 @@
 .navbar-link {
   font-size: 18px;
   color: #f2f2f2;
-  padding: 0 10px;
-  transition: 0.3s;
+  border-bottom: 3px transparent solid;
+  padding-bottom: 0.5rem;
+  transition: border-color 0.5s;
 }
 
 .navbar-link:hover {
   text-decoration: none;
-  color: #6930c3;
+  border-color: #ccc;
+}
+
+.current {
+  color: #f2f2f2;
+  border-color: #ffbc00;
 }
 
 .navbar-logo {
